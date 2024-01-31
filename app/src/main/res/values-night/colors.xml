@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="back_intro">#fff</color>
+    <color name="next_intro">#6DC0FF</color>
+    <color name="grey">#808080</color>
+    <color name="dots">#6DC0FF</color>
+    <color name="stroke_dots">#808080</color>
+    <color name="back_icon">#FFFFFF</color>
+    <color name="setting_color">#FFFFFF</color>
+    <color name="app_color">#435563</color>
+    <color name="title">#5DA5DB</color>
+    <color name="item_filter">#808080</color>
+    <color name="txt">#808080</color>
+    <color name="header_filter">#808080</color>
+    <color name="traffic">#F44336</color>
+    <color name="note">#5DA5DB</color>
+    <color name="light_bulb">#FC67A7</color>
+    <color name="steering_wheel">#2ECC71</color>
+    <color name="history">#9C62F4</color>
+    <color name="danger">#F48536</color>
+    <color name="background">#A2A4AA</color>
+    <color name="item_learn">#5E626F</color>
+    <color name="question1">#F0F3F8</color>
+    <color name="question2">#F44336</color>
+    <color name="question3">#4CAF50</color>
+</resources>
